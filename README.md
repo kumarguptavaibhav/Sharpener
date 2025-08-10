@@ -1,2 +1,5 @@
 # Sharpener
-For Practicing the Problem and Works
+For Practicing the Problem and Works:
+DSA
+FRONTEND
+BACKEND
